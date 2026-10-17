@@ -1,0 +1,17 @@
+c:\Users\A.Y.DANGANA\Desktop\fadallahhabufarifoundation
+1.WIN + R
+2. npm run dev
+3. npm run db:seed
+4.npm run test
+5.npm run build
+6. npm run start
+
+
+========================================================
+Access Links
+Public Portal: http://localhost:3000
+Admin Dashboard: http://localhost:3000/admin/dashboard
+Site Identity & Content Editor: http://localhost:3000/admin/settings
+Admin Credentials:
+Email: admin@fadallahfoundation.org
+Password: Admin@123456
